@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ShiftBookingApp",
+    "slug": "ShiftBookingApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ShiftBookingApp"
+}
